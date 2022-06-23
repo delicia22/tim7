@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background-color: blueviolet;
+}
+h1{
+    font-size: 80px;
+    font-family: cursive;
+    color: aqua;
+    border-style: solid;
+    border-radius: 20px;
+    padding: 5px;
+}
+img{
+    width: 700px;
+}
